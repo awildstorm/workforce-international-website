@@ -1,0 +1,22 @@
+# .gitignore
+
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vite/
+.vitest/
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+bolt-export/
